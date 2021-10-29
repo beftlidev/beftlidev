@@ -6,7 +6,7 @@
 
 <div align="center">
    <a href="https://discord.com/users/753842258457002036" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973">
+      <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036">
    </a>
 
 <p align="center">
