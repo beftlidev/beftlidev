@@ -4,6 +4,14 @@
   <br>
   <br>
 
+<h1 align="center">
+<img src="https://cdn.discordapp.com/banners/753842258457002036/a_90b9cb08919b9969aa731b186c0e5e36.gif?size=300">
+
+<div align="center">
+   <a href="https://discord.com/users/753842258457002036" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973">
+   </a>
+
 <p align="center">
     <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/e60or493wvkgt43g7f01csjo5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
