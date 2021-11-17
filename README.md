@@ -9,12 +9,6 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
    </a>
 
-<p align="center">
-    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://open.spotify.com/user/e60or493wvkgt43g7f01csjo5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://steamcommunity.com/id/newglxck0" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
-</p>
-
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=iUgur&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
   <br>
