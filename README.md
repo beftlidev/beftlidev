@@ -6,13 +6,13 @@
 
 <div align="center">
    <a href="https://discord.com/users/753842258457002036" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+      <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036">
    </a>
 
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=iUgur&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
+<img src = "https://github-readme-stats.vercel.app/api?username=Cheesey-dev&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
   <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iUgur&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cheesey-dev&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
   <br> 
 </div>
 <br><br>
