@@ -17,5 +17,5 @@
 </div>
 <br><br>
   <h1>İletişim</h1>
-  <a href="https://discord.com/users/753842258457002036" target="_blank"><img src="https://shields.io/badge/Cheesey-111111.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://discord.com/users/833625345587413002" target="_blank"><img src="https://shields.io/badge/uğur-111111.svg?&style=for-the-badge&logo=discord"></a>
 </div>
