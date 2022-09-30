@@ -5,8 +5,8 @@
   <br>
 
 <div align="center">
-   <a href="https://discord.com/users/753842258457002036" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036">
+   <a href="https://discord.com/users/833625345587413002" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/833625345587413002">
    </a>
 
 <div align = "center">
