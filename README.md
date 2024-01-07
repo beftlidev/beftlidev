@@ -19,11 +19,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cheesey-dev&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
   </div>
   
-      <script>
-      setInterval(() => {
-      var statusContent = document.getElementById("statusContent");
-          statusContent.innerHTML = `<span> <img src="https://lanyard-profile-readme.vercel.app/api/389071682649849868"> <span>`;
-      }, 1000);
-      </script>
-  
-  
+
