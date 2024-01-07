@@ -1,6 +1,5 @@
 <div align="center">
   <h1>🍻 Hakkımda</h1>
-  <p>Discord Onaylı Geliştiriciyim.</p>
   <br>
   <br>
 
