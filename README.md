@@ -11,8 +11,12 @@
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Cheesey-dev&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
   <br>
+    <br>
+    <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cheesey-dev&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
   <br> 
+    <br>
+    <br>
 </div>
 <br><br>
   <h1>İletişim</h1>
