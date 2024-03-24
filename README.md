@@ -10,7 +10,10 @@
        <br>
          <br>
            <br>
-  
+    <img src = "https://github-profile-trophy.vercel.app/?username=beftlidev&theme=onedark&row=2&column=3" width = "% 100" height = "150px"  />
+             <br>
+         <br>
+           <br>
   <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=beftlidev&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
     <br>
