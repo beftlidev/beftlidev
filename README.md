@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,python,java,cpp,cs,html,css,sass,tailwind,bootstrap,mongodb,mysql,postgresql,redis,docker,git,github,vscode,figma,photoshop,discord,linux,windows" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,mongodb,mysql,git,github,vscode,discord,windows" alt="Tech Stack" />
 </div>
 
 <br>
