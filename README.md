@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Beftli+%F0%9F%91%8B;Full+Stack+Developer;Discord+Bot+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Beftli+%F0%9F%91%8B;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -47,41 +47,10 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beftlidev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beftlidev&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🔭 Currently Working On</h3>
-        <p>• Discord Bot Development</p>
-        <p>• Full Stack Web Applications</p>
-        <p>• Open Source Projects</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🌱 Currently Learning</h3>
-        <p>• Advanced React Patterns</p>
-        <p>• Cloud Architecture</p>
-        <p>• Machine Learning</p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br>
